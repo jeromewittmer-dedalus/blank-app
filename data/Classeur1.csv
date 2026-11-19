@@ -1,0 +1,13 @@
+﻿Server ID;Name;Public IP;Private IP;OS update;Server model;CPU;memory (GB);Operating system;Region;Datacentre;Monthly price;Note
+1659469;ns3037443.ip-162-19-98.eu;162.19.98.81;10.0.0.3;lundi 4h;Advance-5 Gen 2;48;128;proxmox8_64;eu-west-rbx;rbx8;279.99 €;
+1659466;ns3037455.ip-162-19-98.eu;162.19.98.78;10.0.0.4;mardi 4h;Advance-5 Gen 2;48;128;proxmox8_64;eu-west-rbx;rbx8;279.99 €;
+1267430;ns31257189.ip-51-178-176.eu;51.178.176.73;10.0.0.10;mercredi 4h;ADVANCE-4;32;128;proxmox9_64;eu-west-sbg;sbg3;167.19 €;réinstallé en proxmox9 le 28/09/2026
+1429537;ns31424497.ip-54-38-38.eu;54.38.38.126;10.0.0.12;vendredi 4h;ADVANCE-4;32;128;proxmox9_64;eu-west-rbx;rbx8;167.19 €;migration en cours, fin 20/10/2026, réinstallé en promox9 le 6/11/2026
+1534544;ns31571524.ip-162-19-61.eu;162.19.61.17;10.0.0.5;lundi 4h;Advance-5 Gen 2;48;128;proxmox8_64;eu-west-rbx;rbx8;279.99 €;
+1263960;ns3167142.ip-51-210-112.eu;51.210.112.13;10.0.0.6;mardi 4h;ADVANCE-4;32;128;proxmox7_64;eu-west-rbx;rbx8;143.99 €;ajout repo freexian
+1664730;ns3172261.ip-51-210-32.eu;51.210.32.177;10.0.0.2;mardi 4h;RISE-1 | Intel Xeon-E 2386G;6;32;proxmox9_64;eu-west-rbx;rbx7;56.99 €;serveur de test/preprod
+1257991;ns3173538.ip-51-210-99.eu;51.210.99.136;10.0.0.13;vendredi 4h;ADVANCE-4;32;128;proxmox9_64;eu-west-gra;gra2;143.99 €;fin migration 04/11/2026, réinstall en proxmox9 le 09/11/2026
+1306658;ns3180500.ip-51-210-221.eu;51.210.221.8;10.0.0.11;jeudi 4h;ADVANCE-4;32;128;proxmox9_64;eu-west-rbx;rbx8;143.99 €;migration terminée le 08/10/2026, réinstallé en proxmox9
+1415611;ns3197131.ip-141-94-73.eu;141.94.73.36;10.0.0.7;mercredi 4h;Advance-5 Gen 2;48;128;proxmox8_64;eu-west-rbx;rbx8;279.99 €;
+1511609;ns3216117.ip-141-95-202.eu;141.95.202.17;10.0.0.8;vendredi 4h;Advance-3 Gen 2;24;128;proxmox7_64;eu-west-gra;gra3;130.49 €;ajout repo freexian
+1590772;ns3226993.ip-162-19-62.eu;162.19.62.71;10.0.0.1;jeudi 4h;Advance-5 Gen 2;48;128;proxmox9_64;eu-west-rbx;rbx8;279.99 €;réinstallé en proxmox 9 le 17/08/2026
